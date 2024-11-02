@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Logan\\source\\repos\\School System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\schoolsys\\student and teacher folder\\student\\viewgrades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\schoolsys\\student and teacher folder\\student\\viewgrades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\schoolsys\\student and teacher folder\\student\\enrollment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\schoolsys\\student and teacher folder\\student\\enrollment.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\schoolsys\\student and teacher folder\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\schoolsys\\student and teacher folder\\student.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\functions\\tables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\functions\\tables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|School System||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\schoolsys\\student and teacher folder\\student\\viewgrades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\schoolsys\\student and teacher folder\\student\\viewgrades.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|C:\\Users\\Logan\\source\\repos\\School System\\school system\\notifications\\information.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\notifications\\information.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\notifications\\information.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|solutionrelative:school system\\notifications\\information.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E3BDEE-5D1C-4B89-8908-A3D4B1FD4E45}|School System\\School System.vbproj|c:\\users\\logan\\source\\repos\\school system\\school system\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "School System",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\School System.vbproj",
+              "RelativeDocumentMoniker": "School System\\School System.vbproj",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\School System.vbproj",
+              "RelativeToolTip": "School System\\School System.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-24T07:23:33.629Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enrollment.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\Enrollment.vb",
+              "RelativeDocumentMoniker": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\Enrollment.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\Enrollment.vb [Design]",
+              "RelativeToolTip": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\Enrollment.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T14:41:30.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student.vb",
+              "RelativeDocumentMoniker": "School System\\SchoolSys\\Student And Teacher Folder\\Student.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student.vb [Design]",
+              "RelativeToolTip": "School System\\SchoolSys\\Student And Teacher Folder\\Student.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T14:38:54.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewGrades.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "RelativeDocumentMoniker": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb [Design]",
+              "RelativeToolTip": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T14:12:06.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewGrades.vb",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "RelativeDocumentMoniker": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "RelativeToolTip": "School System\\SchoolSys\\Student And Teacher Folder\\Student\\ViewGrades.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T14:14:14.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tables.vb",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Functions\\Tables.vb",
+              "RelativeDocumentMoniker": "School System\\Functions\\Tables.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Functions\\Tables.vb",
+              "RelativeToolTip": "School System\\Functions\\Tables.vb",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAlwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T14:14:31.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Information.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Notifications\\Information.vb",
+              "RelativeDocumentMoniker": "School System\\Notifications\\Information.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Notifications\\Information.vb [Design]",
+              "RelativeToolTip": "School System\\Notifications\\Information.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T12:59:12.205Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Information.vb",
+              "DocumentMoniker": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Notifications\\Information.vb",
+              "RelativeDocumentMoniker": "School System\\Notifications\\Information.vb",
+              "ToolTip": "C:\\Users\\Logan\\source\\repos\\School System\\School System\\Notifications\\Information.vb",
+              "RelativeToolTip": "School System\\Notifications\\Information.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-27T13:31:42.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
